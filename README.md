@@ -26,7 +26,7 @@ Donate TRX (TRC-20) to support our project:
 ``` wallet
 TMVBGzX4qpt12R1qWsJMpT1ttoKH1kus1H
 ```
-Thanks for your support! 
+
 
 ## Source code
 https://github.com/EasyTier/EasyTier
